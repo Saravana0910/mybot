@@ -1,12 +1,13 @@
 {
-  "name": "mybot",
-  "description": "A telegram bot To Download  Files ",
+  "name": "YouTube Downloader Bot",
+  "description": "A telegram bot To Download Youtube Files ",
   "logo": "https://telegra.ph/file/6a3b1febade2313dd0dca.jpg",
   "keywords": [
     "Youtube","YoutubeDownloader"
-  ],Saravana0910/mybot",
-  "success_url": "https://t.me/mediasaver8bot",
-  "website": "https://github.com/Saravana0910/mybot",
+  ],
+  "repository": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
+  "success_url": "https://t.me/youtubdlbot",
+  "website": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
